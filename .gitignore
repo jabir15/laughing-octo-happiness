@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+questions/mpmc/
+questionbank/mpmc/
+questions/exams/
+questionbank/exams/
+
